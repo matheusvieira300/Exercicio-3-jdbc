@@ -1,0 +1,70 @@
+May 04, 2023 8:27:32 AM Principal main
+INFO: Log de informação
+May 04, 2023 8:27:33 AM Principal main
+WARNING: Log de Aviso
+May 04, 2023 8:27:33 AM Principal main
+SEVERE: Log Severo
+May 04, 2023 8:28:49 AM Principal main
+INFO: Log de informação
+May 04, 2023 8:28:49 AM Principal main
+WARNING: Log de Aviso
+May 04, 2023 8:28:49 AM Principal main
+SEVERE: Log Severo
+May 04, 2023 8:30:47 AM Principal main
+INFO: Log de informação
+May 04, 2023 8:30:47 AM Principal main
+WARNING: Log de Aviso
+May 04, 2023 8:30:47 AM Principal main
+SEVERE: Log Severo
+May 04, 2023 8:31:03 AM Principal main
+INFO: Log de informação
+May 04, 2023 8:31:03 AM Principal main
+WARNING: Log de Aviso
+May 04, 2023 8:31:03 AM Principal main
+SEVERE: Log Severo
+May 04, 2023 8:47:17 AM Principal main
+INFO: Log de informação
+May 04, 2023 8:47:17 AM Principal main
+WARNING: Log de Aviso
+May 04, 2023 8:47:17 AM Principal main
+SEVERE: Log Severo
+May 04, 2023 8:47:22 AM Principal main
+INFO: O resultado da calculadora ficou assim SELECT * FROM pessoa
+May 04, 2023 8:48:07 AM Principal main
+INFO: Log de informação
+May 04, 2023 8:48:08 AM Principal main
+WARNING: Log de Aviso
+May 04, 2023 8:48:08 AM Principal main
+SEVERE: Log Severo
+May 04, 2023 8:48:12 AM Principal main
+INFO: O resultadoficou assim INSERT INTO pessoa (ID, nome, idade) VALUES ('10', 'gagfds', 10)
+May 04, 2023 2:29:51 PM Principal main
+INFO: Log de informação
+May 04, 2023 2:29:52 PM Principal main
+WARNING: Log de Aviso
+May 04, 2023 2:29:52 PM Principal main
+SEVERE: Log Severo
+May 04, 2023 2:29:52 PM Principal main
+INFO: Programa iniciou
+May 04, 2023 2:29:52 PM Principal main
+INFO: Programa executando
+May 04, 2023 2:30:06 PM Principal main
+INFO: O resultadoficou assim INSERT INTO pessoa (ID, nome, idade) VALUES ('10', 'fsdjkljasdf', 54)
+May 04, 2023 2:30:06 PM Principal main
+INFO: Programa finalizado
+May 04, 2023 2:34:22 PM Principal main
+INFO: Programa iniciou
+May 04, 2023 2:34:22 PM Principal main
+INFO: Programa executando
+May 04, 2023 2:34:32 PM Principal main
+INFO: O resultado ficou assim INSERT INTO pessoa (ID, nome, idade) VALUES ('5058145', 'maghtaj', 665)
+May 04, 2023 2:34:32 PM Principal main
+WARNING: Programa finalizado
+May 04, 2023 2:35:12 PM Principal main
+INFO: Programa iniciou
+May 04, 2023 2:35:12 PM Principal main
+INFO: Programa executando
+May 04, 2023 2:35:23 PM Principal main
+INFO: O resultado ficou assim INSERT INTO pessoa (ID, nome, idade) VALUES ('0', 'kato', 884)
+May 04, 2023 2:35:23 PM Principal main
+WARNING: Programa finalizado
