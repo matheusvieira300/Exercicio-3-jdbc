@@ -1,13 +1,19 @@
+import java.io.IOException;
 import java.sql.*;
 
-public class BancoDados implements InterfaceBancoDados {
+public class BancoDados implements InterfaceBancoDados  {
     
     private Connection conexao;
     private Statement statement;
+   
+    
+   
     
     @Override
-    public void conectar (String db_url, String db_user, String db_password) {
+    public void conectar (String db_url, String db_user, String db_password) throws IOException  {
         try {
+        	Log logs = new Log("Log.txt");
+        	logs.logger.info("testando");
             conexao = DriverManager.getConnection(db_url, db_user, db_password);
             statement = conexao.createStatement();
             System.out.println("Conexão estabelecida com sucesso.");
@@ -17,7 +23,7 @@ public class BancoDados implements InterfaceBancoDados {
     }
 
     @Override
-    public void desconectar() {
+    public void desconectar() throws IOException{
         try {
             statement.close();
             conexao.close();
